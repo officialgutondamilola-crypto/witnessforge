@@ -7,9 +7,9 @@ dist/
 .pytest_cache/
 .venv/
 venv/
-.env
 witnessforge-out/
 out/
 .DS_Store
 .idea/
-.vscode/
+config.bat
+node_modules
